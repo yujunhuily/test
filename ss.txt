@@ -1,0 +1,5 @@
+ILLEGAL_SEN = 'illegal'
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "BotManagementService.settings")# project_name 项目名称
+
+
+ 11、python manage.py runserver 0.0.0.0:8100
